@@ -6,4 +6,3 @@ def call(String url, String creds, String branch) {
         userRemoteConfigs: [[url: url, credentialsId: creds]]
     ])
 }
-
